@@ -1,0 +1,1 @@
+export { DELETE, GET } from "../../api/bookings/[id]/route.js";

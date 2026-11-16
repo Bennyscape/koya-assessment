@@ -1,0 +1,1 @@
+export { GET } from "../api/slots/route.js";
