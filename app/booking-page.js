@@ -135,7 +135,7 @@ export default function BookingPage() {
       </header>
 
       <section className="intro">
-        <div className="intro-copy"><p className="eyebrow">CARE THAT FITS YOUR DAY</p><h1>Make time<br />for your health.</h1><p className="intro-note">Choose a time with our care team. Your appointment is confirmed as soon as you book.</p></div>
+        <div className="intro-copy"><p className="eyebrow">CARE THAT FITS DAY</p><h1>Make time<br />for your health.</h1><p className="intro-note">Choose a time with our care team. Your appointment is confirmed as soon as you book.</p></div>
         <div className="intro-aside" aria-hidden="true"><div className="orbit orbit-one" /><div className="orbit orbit-two" /><div className="sun-mark">+</div><span className="aside-label">A little more<br />room to feel well.</span></div>
       </section>
 
